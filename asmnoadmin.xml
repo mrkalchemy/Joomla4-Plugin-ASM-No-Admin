@@ -7,7 +7,7 @@
     <license>GNU General Public License</license>
     <authorEmail>info@algosemueve.es</authorEmail>
     <authorUrl>https://algosemueve.es</authorUrl>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>Simple plugin to hide the administrator login.</description>
 
     <files>
@@ -41,6 +41,6 @@
         </fields>
     </config>
     <updateservers>
-        <server type="extension" priority="1" name="ASM Update Site">https://algosemueve/updates/asmnoadmin.xml</server>
+        <server type="extension" priority="1" name="ASM Update Site">https://algosemueve.es/updates/asmnoadmin.xml</server>
     </updateservers>
 </extension>
