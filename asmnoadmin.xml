@@ -40,7 +40,4 @@
             
         </fields>
     </config>
-    <updateservers>
-        <server type="extension" priority="1" name="ASM Update Site">https://algosemueve.es/updates/asmnoadmin.xml</server>
-    </updateservers>
 </extension>
